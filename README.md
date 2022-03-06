@@ -20,4 +20,5 @@ Based on the warm weather and the stability of it for Oahu, opening a surf shop 
 In order to dive more into this analysis, I also performed the precipitation analysis in June and December.
 
 ![Oahu's precipitation in June](https://github.com/ZiwenLyu/surfs_up/blob/main/june_prcp.png) ![Oahu's precipitation in December](https://github.com/ZiwenLyu/surfs_up/blob/main/dec_prcp.png)
+
 From the average we know that, the precipitation in June and December is quite low, and precipitation in December is little bit more than June's. But we also notice that the median of precipitation is not zero both for June and December, indicating that at least half of these two months are raining. So, we may need to dive more into the dataset to more dive into specific stations.
